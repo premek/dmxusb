@@ -8,7 +8,7 @@ DMXUSB implements the ENTTEC DMX USB Pro Widget API Specification 1.44 on any se
 DMXUSB is regularly tested on the Arduino Mega 2560 and the PJRC Teensy 3.2. Compilation tests for many more boards are [completed via Continuous Integration](https://travis-ci.org/DaAwesomeP/dmxusb).
 
 ### Via Arduino IDE Library Manager
-In the Arduino IDE, go to `Sketch > Tools > Include Library > Manage Libraries` and search and install the latest release version DMXUSB.
+In the Arduino IDE, go to `Sketch > Tools > Include Library > Manage Libraries` and search and install the latest release version of "DMXUSB" and "elapsedMillis" libraries.
 
 ### Via the ZIP archive
 Download the latest release ZIP from [here](https://github.com/DaAwesomeP/dmxusb/releases/latest) or the latest testing release from [here](https://github.com/DaAwesomeP/dmxusb/archive/master.zip). Then go to `Sketch > Tools > Include Library > Add ZIP Library`.
